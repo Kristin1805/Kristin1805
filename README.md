@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-🌱 Currently Learning: Python Web Development and Robotics
+🌱 Currently Learning: Python Web Development
 🎓 Education:
 
     🎓 Current: First-year student in Informatics at New Bulgarian University
