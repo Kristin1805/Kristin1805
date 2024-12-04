@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a little about me:
     🏁 Near Completion: Telerik Academy Alpha Python Track
     🥇 Completed: Python Web Developer modules at SoftUni
 
-🤖 Robotics Experience:
+🤖 Robotics Experimenting:
 
     Programmed SoftBank Nao robots using Python blocks and custom scripts.
     Designed and recorded movement patterns for interactive robot applications.
